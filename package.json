@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
-    "@tinacms/cli": "^2.5.6",
+    "@tinacms/cli": "^3.0.0",
     "@tinacms/datalayer": "^2.0.29",
     "@tinacms/graphql": "^2.4.9",
     "astro": "^7.1.3",
