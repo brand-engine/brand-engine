@@ -45,7 +45,7 @@
     "tinacms-gitprovider-github": "^4.1.16",
     "tsx": "^4.23.1",
     "vite": "^8.1.5",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
